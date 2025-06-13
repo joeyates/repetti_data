@@ -2358,7 +2358,7 @@
  {"title":"LUCARDO","type":"place","point_source":"manual","longitude":11.1160721,"latitude":43.5982172}, 
  {"title":"LUCARDO (CASTEL DI)","type":"reference","point_source":"none","longitude":null,"latitude":null}, 
  {"title":"LUCARDO (S. PANCRAZIO A)","type":"reference","point_source":"none","longitude":null,"latitude":null}, 
- {"title":"LUCCA, LUCA","type":"place","point_source":"text","longitude":10.502777777777778,"latitude":43.84166666666667}, 
+ {"title":"LUCCA","type":"place","point_source":"text","longitude":10.502777777777778,"latitude":43.84166666666667}, 
  {"title":"LUCCHESE, (PORTA) DI PISTOJA, OSSIA SUBBORGHI NELLA CORTINA DI PORTA A LUCCA","type":"reference","point_source":"none","longitude":null,"latitude":null}, 
  {"title":"LUCCIANA","type":"reference","point_source":"none","longitude":null,"latitude":null}, 
  {"title":"LUCCIANO","type":"reference","point_source":"none","longitude":null,"latitude":null}, 
