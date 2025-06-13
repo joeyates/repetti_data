@@ -226,9 +226,9 @@
   {
     "title": "ABAZIA DI FALESIA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.54255932569504,
+    "latitude": 42.934661178757565
   },
   {
     "title": "ABAZIA DI FONTANA TANONA o DI TAONA",
@@ -422,9 +422,9 @@
   {
     "title": "ABAZIA DI S. TRINITA DELL’ALPI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.715627461671831,
+    "latitude": 43.61847390944541
   },
   {
     "title": "ABAZIA DI SESTO",
@@ -863,9 +863,9 @@
   {
     "title": "ALPE DI S. BENEDETTO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.715030670166017,
+    "latitude": 43.87641503621656
   },
   {
     "title": "ALPE DI STAZZEMA",
@@ -1710,9 +1710,9 @@
   {
     "title": "BADIA A SPINETA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.844436526298525,
+    "latitude": 42.947974602451055
   },
   {
     "title": "BADIA A TEGA",
@@ -2081,9 +2081,9 @@
   {
     "title": "BADIA DI MONTE CRISTO o di S. MAMILIANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.302213281393053,
+    "latitude": 42.33774375000504
   },
   {
     "title": "BADIA DI MONTE FOLONICA",
@@ -2424,9 +2424,9 @@
   {
     "title": "BADIA DI S. PIETRO IN CAMPO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.770946681499483,
+    "latitude": 42.97258087181927
   },
   {
     "title": "BADIA DI S. QUIRICO A MOXI",
@@ -2438,9 +2438,9 @@
   {
     "title": "BADIA DI S. QUIRICO DELLE ROSE",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.802773773670197,
+    "latitude": 43.288218731008925
   },
   {
     "title": "BADIA DI S. REPARATA",
@@ -3061,9 +3061,9 @@
   {
     "title": "BARBERINO DI MUGELLO",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.233333333333299,
-    "latitude": 43.985
+    "point_source": "manual",
+    "longitude": 11.238436996936798,
+    "latitude": 44.000498654440364
   },
   {
     "title": "BARBERINO DI VAL D’ELSA",
@@ -3082,9 +3082,9 @@
   {
     "title": "BARBIANO di S. Gimignano",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.0511489,
+    "latitude": 43.4526021
   },
   {
     "title": "BARCO REALE DI ARTIMINO, e MONTI del BARCO",
@@ -4405,9 +4405,9 @@
   {
     "title": "BORGO S. DONNINO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.1501811,
+    "latitude": 43.7955667
   },
   {
     "title": "BORGO S. JACOPO D’ACQUAVIVA",
@@ -4587,9 +4587,9 @@
   {
     "title": "BOZZONE (S. GIOVANNI BATISTA AL)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.385076045989992,
+    "latitude": 43.32050079152166
   },
   {
     "title": "BRANCOLI",
@@ -5096,6 +5096,13 @@
     "latitude": null
   },
   {
+    "title": "CAMPO (S. MARTINO IN)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.02206587791443,
+    "latitude": 43.779571963164656
+  },
+  {
     "title": "CAMPO (S. PIETRO IN) in Val di Nievole",
     "type": "place",
     "point_source": "later",
@@ -5175,9 +5182,9 @@
   {
     "title": "CAMPORBIANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.954442024230959,
+    "latitude": 43.480216055886935
   },
   {
     "title": "CAMPOREGGIO di VICO PISANO",
@@ -6386,9 +6393,9 @@
   {
     "title": "CASTELLONCHIO, o CASTIGLIONCHIO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.417571008205416,
+    "latitude": 43.750103223763475
   },
   {
     "title": "CASTELL’ALFERO",
@@ -7926,9 +7933,9 @@
   {
     "title": "COLLE (S. MARTINO IN)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.6514144,
+    "latitude": 43.8657556
   },
   {
     "title": "COLLE (SANTO AL)",
@@ -7982,9 +7989,9 @@
   {
     "title": "COLLE MONTANINO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.6178915,
+    "latitude": 43.5098531
   },
   {
     "title": "COLLE SABBATINI",
@@ -8423,9 +8430,9 @@
   {
     "title": "CORNIA castello in Val di Cornia",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.803150683641435,
+    "latitude": 43.18571223442601
   },
   {
     "title": "CORNIA fiume",
@@ -8654,9 +8661,9 @@
   {
     "title": "COTONE nella Valle inferiore dell’Ombrone senese",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.348973512649536,
+    "latitude": 42.75292414689669
   },
   {
     "title": "COVERTOJE (S. SILVESTRO A)",
@@ -9039,9 +9046,9 @@
   {
     "title": "DICOMANO fiume",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.541877985000612,
+    "latitude": 43.89396803248927
   },
   {
     "title": "DICOMANO, talvolta COMANO",
@@ -9725,9 +9732,9 @@
   {
     "title": "ELMO (MONTE DELL’)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.694715,
+    "latitude": 42.7198262
   },
   {
     "title": "ELSA fiume",
@@ -10138,9 +10145,9 @@
   {
     "title": "FAGGIOLA (CASTELLO della)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 12.141346335411074,
+    "latitude": 43.79636976588137
   },
   {
     "title": "FAGGIOLA, FAGGIUOLA, FAZOLA, FAJOLA, e  FAJOLO",
@@ -10838,9 +10845,9 @@
   {
     "title": "FLOSCOLI (MONTE) o MONTE FLOSCULI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.4211863,
+    "latitude": 43.9689108
   },
   {
     "title": "FO (MONTE)",
@@ -10929,9 +10936,9 @@
   {
     "title": "FONTE BUONA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.2916006,
+    "latitude": 43.875303
   },
   {
     "title": "FONTE BUONA DI CAMPI",
@@ -11818,9 +11825,9 @@
   {
     "title": "GALOGNANO nel Val d’Arno aretino",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.829174757003786,
+    "latitude": 43.48579606650029
   },
   {
     "title": "GAMBASSI",
@@ -13085,9 +13092,9 @@
   {
     "title": "GRANAJOLO in Val d’Elsa",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.948208570480348,
+    "latitude": 43.64935470671172
   },
   {
     "title": "GRANCE, o GRANCIA dello Spedale di Siena",
@@ -15129,9 +15136,9 @@
   {
     "title": "LAVVAJANO, LAVANO, o LAVIANO (PIEVE DI)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.5834409,
+    "latitude": 43.6280998
   },
   {
     "title": "LAZZARETTO DI VARIGNANO",
@@ -15178,9 +15185,9 @@
   {
     "title": "LECCIA e MILIANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.526318550109863,
+    "latitude": 43.60688461527551
   },
   {
     "title": "LECCIA nella Valle della Cornia",
@@ -17166,9 +17173,9 @@
   {
     "title": "MACERETO, o MACIARETO (PONTE A)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.287825852632523,
+    "latitude": 43.14885173736934
   },
   {
     "title": "MACIA",
@@ -17306,9 +17313,9 @@
   {
     "title": "MADONNA DI FONTE NUOVA ossia DI MONSUMMANO BASSO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.814114212989809,
+    "latitude": 43.86968475948617
   },
   {
     "title": "MADONNA DI POLCANTO",
@@ -17572,9 +17579,9 @@
   {
     "title": "MALAVENTRE",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.3503389,
+    "latitude": 43.776188
   },
   {
     "title": "MALBORGHETTO DI MONTELUPO",
@@ -18258,9 +18265,9 @@
   {
     "title": "MARTINO (S.) IN CAMPO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.021486520767214,
+    "latitude": 43.77946351494652
   },
   {
     "title": "MARTINO (S.) IN COLLE",
@@ -18370,9 +18377,9 @@
   {
     "title": "MASSA DI SASSO ROSSO di Garfagnana",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.40008842945099,
+    "latitude": 44.183505757835384
   },
   {
     "title": "MASSA DUCALE, o MASSA DI CARRARA",
@@ -18762,9 +18769,9 @@
   {
     "title": "MENSOLE (S. PIETRO A), ossia AL POGGIOLO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.743878096745563,
+    "latitude": 43.213785599999994
   },
   {
     "title": "MENSOLE presso MONTALCINO",
@@ -19364,9 +19371,9 @@
   {
     "title": "MONTAGNA FIORENTINA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.687564849853516,
+    "latitude": 43.77163923095185
   },
   {
     "title": "MONTAGNA di Pistoja, ossia MONTI DI SOPRA",
@@ -19441,9 +19448,9 @@
   {
     "title": "MONTAGUTO, MONTAUTELLO, o MONTAUTO DI  SANGIMIGNANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.0506662,
+    "latitude": 43.4398957
   },
   {
     "title": "MONTAGUTO, e MONTAUTACCIO in Val di Fiora",
@@ -19483,9 +19490,9 @@
   {
     "title": "MONTAGUTO, o MONTAUGUTULO SULL’EMA,  detto anche DELL’IMPRUNETA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.27899467945099,
+    "latitude": 43.72054553011734
   },
   {
     "title": "MONTAGUTO, o MONTAUTO DELLA CERTOSA",
@@ -19602,9 +19609,9 @@
   {
     "title": "MONTALTO DI ROCCASTRADA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.152810156345367,
+    "latitude": 43.066411772331165
   },
   {
     "title": "MONTALTO nel Val d’Arno inferiore",
@@ -19910,9 +19917,9 @@
   {
     "title": "MONTE BOTTOLINO, o BUTOLINO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 12.1527294,
+    "latitude": 43.7319906
   },
   {
     "title": "MONTE BRADONI",
@@ -20183,9 +20190,9 @@
   {
     "title": "MONTE CUCCOLI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.1773826,
+    "latitude": 44.0078582
   },
   {
     "title": "MONTE CUCCOLI (PIEVE DI) ossia DI S. GIOVANNI  EVANGELISTA",
@@ -20344,9 +20351,9 @@
   {
     "title": "MONTE FIESOLE, o MONTEFIESOLE",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.449041366577148,
+    "latitude": 43.80730345915889
   },
   {
     "title": "MONTE FILIPPO, e FORTE DI MONTE FILIPPO",
@@ -20708,9 +20715,9 @@
   {
     "title": "MONTE MORLI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.1263526,
+    "latitude": 43.45725
   },
   {
     "title": "MONTE MURELLO (S. MARIA)",
@@ -20771,9 +20778,9 @@
   {
     "title": "MONTE ORLANDI, o MONT’ORLANDO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.09899699687958,
+    "latitude": 43.763060781687486
   },
   {
     "title": "MONTE ORSAJO, o MONT’ORSAJO nella Val di Magra",
@@ -21051,9 +21058,9 @@
   {
     "title": "MONTE SILVESTRI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.9567491,
+    "latitude": 43.7408027
   },
   {
     "title": "MONTE SINDOLI",
@@ -21163,9 +21170,9 @@
   {
     "title": "MONTE VITOZZO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.7062613,
+    "latitude": 42.7455229
   },
   {
     "title": "MONTE VIVAGNI o VIVAGNO",
@@ -23480,9 +23487,9 @@
   {
     "title": "PALAZZO DE’DIAVOLI",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.311900019645691,
+    "latitude": 43.33225789117834
   },
   {
     "title": "PALAZZO DI GETA",
@@ -23662,9 +23669,9 @@
   {
     "title": "PANICAGLIA DEL GOLFO DELLA SPEZIA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 9.830853939056398,
+    "latitude": 44.073533275336175
   },
   {
     "title": "PANIGALE, o PANICALE",
@@ -23928,9 +23935,9 @@
   {
     "title": "PATERNO DELLA CARZA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.2660081,
+    "latitude": 43.886607
   },
   {
     "title": "PATERNO DELLE MASSE DI S. MARTINO",
@@ -24684,9 +24691,9 @@
   {
     "title": "PIAN FRANZESE o PIANFRANZESE",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.439331769943239,
+    "latitude": 43.5612872285391
   },
   {
     "title": "PIAN MAGGIORE",
@@ -27442,9 +27449,9 @@
   {
     "title": "PORTA BELTRAME (TORRE DI)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.173468860761332,
+    "latitude": 43.99706105
   },
   {
     "title": "PORTA CARRATICA DI PISTOJA",
@@ -27820,9 +27827,9 @@
   {
     "title": "PRATO MAGNO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.678810119628908,
+    "latitude": 43.64213765216211
   },
   {
     "title": "PRATO REGIO",
@@ -28023,16 +28030,16 @@
   {
     "title": "PULICIANO in Val di Sieve",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.4219939,
+    "latitude": 44.0014586
   },
   {
     "title": "PULICIANO o PULICCIANO in Val di Chiana",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.857911944389343,
+    "latitude": 43.38965265522019
   },
   {
     "title": "PULICIANO, POLICIANO (MONTE)",
@@ -29640,9 +29647,9 @@
   {
     "title": "RUBIANA, o ROBIANA (PIEVE DI)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.362439631965174,
+    "latitude": 43.681785500000004
   },
   {
     "title": "RUFFENO, o ROFFENA",
@@ -29983,9 +29990,9 @@
   {
     "title": "SALVATORE (S.) FUORI DI PIETRASANTA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.228180289268495,
+    "latitude": 43.96218068402221
   },
   {
     "title": "SALVETTI (COLLE)",
@@ -32209,9 +32216,9 @@
   {
     "title": "SFORZESCA (VILLA)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.745111081118225,
+    "latitude": 42.782713
   },
   {
     "title": "SICILLE (S. MARIA A)",
@@ -32461,9 +32468,9 @@
   {
     "title": "SOPANO, o SUPANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.766491532325746,
+    "latitude": 42.74173472454715
   },
   {
     "title": "SORAGGIO DI GARFAGNANA",
@@ -32943,7 +32950,7 @@
   },
   {
     "title": "STERZA fiumane",
-    "type": "place",
+    "type": "group",
     "point_source": "later",
     "longitude": null,
     "latitude": null
@@ -33630,9 +33637,9 @@
   {
     "title": "TIRLI DI FIRENZUOLA",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.4769631,
+    "latitude": 44.1581747
   },
   {
     "title": "TIZZANA",
@@ -33868,9 +33875,9 @@
   {
     "title": "TORRI (S. VINCENZIO A)",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.096116304397585,
+    "latitude": 43.700243834075934
   },
   {
     "title": "TORRI o TORRE DI GALATRONA",
@@ -34022,9 +34029,9 @@
   {
     "title": "TREBBIANO, o TREBIANO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 9.923234581947328,
+    "latitude": 44.102827620833445
   },
   {
     "title": "TREBBIO, o TREPPIO DI CANTAGALLO",
@@ -34554,9 +34561,9 @@
   {
     "title": "VALICO SOPRA e VALICO SOTTO di Garfagnana",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.444167852401735,
+    "latitude": 44.015552265417035
   },
   {
     "title": "VALINETRO (PIEVE DI)",
@@ -34925,9 +34932,9 @@
   {
     "title": "VALLE SUPERIORE DEL SAVIO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 11.977200508117678,
+    "latitude": 43.797751300333275
   },
   {
     "title": "VALLE SUPERIORE DELLA FOGLIA",
@@ -35457,9 +35464,9 @@
   {
     "title": "VICO PETROSO, e SOLAJO",
     "type": "place",
-    "point_source": "later",
-    "longitude": null,
-    "latitude": null
+    "point_source": "manual",
+    "longitude": 10.886295139789583,
+    "latitude": 43.927402608866885
   },
   {
     "title": "VICO PISANO",
