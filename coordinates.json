@@ -161,7 +161,7 @@
     "latitude": 43.728770342426735
   },
   {
-    "title": "ABAZIA DI BUONSOLAZZO già detta di S. BARTOLOMMEO IN FORCOLESE",
+    "title": "ABAZIA DI BUONSOLAZZO",
     "type": "place",
     "point_source": "manual",
     "longitude": 11.314539313316347,
@@ -4739,7 +4739,7 @@
     "latitude": null
   },
   {
-    "title": "CALICE, già CALESE",
+    "title": "CALICE",
     "type": "place",
     "point_source": "text",
     "longitude": 9.818611111111078,
@@ -9282,7 +9282,7 @@
     "latitude": null
   },
   {
-    "title": "DONATO (S.) IN POGGIO, (già",
+    "title": "DONATO (S.) IN POGGIO",
     "type": "place",
     "point_source": "manual",
     "longitude": 11.2342716,
@@ -24570,7 +24570,7 @@
     "latitude": null
   },
   {
-    "title": "PIEVE A NIEVOLE (S. Marco, già S. Pietro)",
+    "title": "PIEVE A NIEVOLE (S. Marco)",
     "type": "place",
     "point_source": "manual",
     "longitude": 10.7961119,
