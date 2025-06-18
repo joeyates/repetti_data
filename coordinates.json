@@ -12957,6 +12957,13 @@
     "latitude": null
   },
   {
+    "title": "GRACCIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8287778,
+    "latitude": 43.1318886
+  },
+  {
     "title": "GRADO (S. PIETRO IN)",
     "type": "place",
     "point_source": "manual",
@@ -29216,6 +29223,13 @@
     "point_source": "manual",
     "longitude": 11.4335704,
     "latitude": 44.0070614
+  },
+  {
+    "title": "RONZANO DI CORTONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8886133,
+    "latitude": 43.2666791
   },
   {
     "title": "ROSANO",
