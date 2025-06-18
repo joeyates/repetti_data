@@ -49,6 +49,13 @@
     "latitude": 43.7947734
   },
   {
+    "title": "ABAZIA A RUOTI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6030896,
+    "latitude": 43.3962769
+  },
+  {
     "title": "ABAZIA A SETTIMO",
     "type": "place",
     "point_source": "manual",
@@ -2961,6 +2968,13 @@
     "latitude": null
   },
   {
+    "title": "BANZENA (S. DONATO A)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8674681,
+    "latitude": 43.7197935
+  },
+  {
     "title": "BARATTI (PORTO)",
     "type": "reference",
     "point_source": "none",
@@ -4081,6 +4095,13 @@
     "latitude": null
   },
   {
+    "title": "BIFORCO del Casentino",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.934261023998262,
+    "latitude": 43.75000983485707
+  },
+  {
     "title": "BISCARDO (GELLO)",
     "type": "reference",
     "point_source": "none",
@@ -4744,6 +4765,13 @@
     "point_source": "manual",
     "longitude": 11.986706256866457,
     "latitude": 43.269893710777396
+  },
+  {
+    "title": "CALCIONE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6859173,
+    "latitude": 43.2935978
   },
   {
     "title": "CALDANA nella Maremma di Grosseto",
@@ -6377,6 +6405,13 @@
     "latitude": null
   },
   {
+    "title": "CASTELNUOVO DI FALTONA o DI TALLA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7636381,
+    "latitude": 43.631977
+  },
+  {
     "title": "CASTELNUOVO DI GARFAGNANA",
     "type": "place",
     "point_source": "text",
@@ -6979,6 +7014,13 @@
     "latitude": null
   },
   {
+    "title": "CENNINA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5900441,
+    "latitude": 43.438082
+  },
+  {
     "title": "CENTUMCELLI",
     "type": "reference",
     "point_source": "none",
@@ -7287,6 +7329,13 @@
     "latitude": 43.05222222222222
   },
   {
+    "title": "CHIANI, o CHIANNI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8144054,
+    "latitude": 43.4606308
+  },
+  {
     "title": "CHIANNI DI GAMBASSI",
     "type": "place",
     "point_source": "manual",
@@ -7296,9 +7345,9 @@
   {
     "title": "CHIANNI delle COLLINE PISANE",
     "type": "place",
-    "point_source": "text",
-    "longitude": 10.633888888888855,
-    "latitude": 43.484722222222224
+    "point_source": "manual",
+    "longitude": 10.642168521881105,
+    "latitude": 43.485163981848245
   },
   {
     "title": "CHIANTI",
@@ -7327,6 +7376,13 @@
     "point_source": "manual",
     "longitude": 11.367802080401372,
     "latitude": 43.5070287
+  },
+  {
+    "title": "CHIARANTANA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.784148503604584,
+    "latitude": 43.01154725
   },
   {
     "title": "CHIARI (MONTE)",
@@ -17437,6 +17493,13 @@
     "latitude": 42.5872822
   },
   {
+    "title": "MANDRIOLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7527453,
+    "latitude": 43.784318
+  },
+  {
     "title": "MANFRIANO",
     "type": "reference",
     "point_source": "none",
@@ -17547,6 +17610,13 @@
     "point_source": "text",
     "longitude": 11.7833333333333,
     "latitude": 43.30138888888889
+  },
+  {
+    "title": "MARCIANO nel Val d’Arno casentinese",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8340066,
+    "latitude": 43.7413235
   },
   {
     "title": "MARCIANO nella masse di città di Siena",
@@ -18739,6 +18809,13 @@
     "latitude": 43.7657597
   },
   {
+    "title": "MIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0066901,
+    "latitude": 43.686222
+  },
+  {
     "title": "MILIA torrente",
     "type": "reference",
     "point_source": "none",
@@ -19388,6 +19465,13 @@
     "point_source": "manual",
     "longitude": 11.431875228881838,
     "latitude": 43.32777666291562
+  },
+  {
+    "title": "MONTARONE e MONTIRONE DI SESTINO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.35415816307068,
+    "latitude": 43.71005275864448
   },
   {
     "title": "MONTARRENTI, e MONTE ARRENTI",
@@ -22904,6 +22988,13 @@
     "latitude": 43.337310450000004
   },
   {
+    "title": "PADONCHIA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0972209,
+    "latitude": 43.475874
+  },
+  {
     "title": "PADULE (PIEVE DI) in Val d’Era",
     "type": "place",
     "point_source": "manual",
@@ -23434,6 +23525,13 @@
     "point_source": "manual",
     "longitude": 10.41485130786896,
     "latitude": 43.77824423363223
+  },
+  {
+    "title": "PAPIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7121964,
+    "latitude": 43.8172029
   },
   {
     "title": "PAPIANO o POPIANO",
@@ -26691,6 +26789,13 @@
     "latitude": null
   },
   {
+    "title": "PONTE ALLA PIETRA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9910522,
+    "latitude": 43.5857984
+  },
+  {
     "title": "PONTE ALLE TAVERNE D’ARBIA",
     "type": "place",
     "point_source": "manual",
@@ -27452,6 +27557,13 @@
     "point_source": "manual",
     "longitude": 11.649874448776245,
     "latitude": 43.79648747633005
+  },
+  {
+    "title": "PRATO ANTICO, e PRATANTICO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8219353,
+    "latitude": 43.4788507
   },
   {
     "title": "PRATO MAGNO",
@@ -28838,6 +28950,13 @@
     "point_source": "manual",
     "longitude": 10.891705155372621,
     "latitude": 43.10981861333377
+  },
+  {
+    "title": "ROCCHETTA DEL PRIORE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.103865146636965,
+    "latitude": 43.822409106228015
   },
   {
     "title": "ROCCHETTA DI VARA",
@@ -32431,6 +32550,13 @@
     "latitude": null
   },
   {
+    "title": "STARTIA A BATTIFOLLE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.66700839996338,
+    "latitude": 43.75220579195261
+  },
+  {
     "title": "STARTINO, o STARTINA (PIEVE DI)",
     "type": "reference",
     "point_source": "none",
@@ -33178,6 +33304,13 @@
     "point_source": "manual",
     "longitude": 12.202827930450441,
     "latitude": 43.4827943838018
+  },
+  {
+    "title": "TEVERINA (VILLA DI)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.094638347625732,
+    "latitude": 43.31072280886422
   },
   {
     "title": "TIGLIANO",
@@ -33950,6 +34083,13 @@
     "latitude": 43.897103829299546
   },
   {
+    "title": "UZZANO nel Val d'Arno casentinese",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.774103641510012,
+    "latitude": 43.68776067135304
+  },
+  {
     "title": "VACCOLE o VACCOLI",
     "type": "place",
     "point_source": "manual",
@@ -34543,6 +34683,13 @@
     "point_source": "manual",
     "longitude": 10.219994,
     "latitude": 43.982328
+  },
+  {
+    "title": "VALLESI DI RIGOMAGNO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.67595624923706,
+    "latitude": 43.25073640542756
   },
   {
     "title": "VALLI (S. MAMILIANO A)",
