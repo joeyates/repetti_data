@@ -2499,6 +2499,13 @@
     "latitude": null
   },
   {
+    "title": "BADIA DI SUCCASTELLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.07465100385027,
+    "latitude": 43.594222200000004
+  },
+  {
     "title": "BADIA DI SUSINANA",
     "type": "reference",
     "point_source": "none",
@@ -2616,6 +2623,13 @@
     "point_source": "manual",
     "longitude": 11.2847142,
     "latitude": 43.7503264
+  },
+  {
+    "title": "BAGNAJA SUL CERFONE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0573801,
+    "latitude": 43.4785891
   },
   {
     "title": "BAGNAJA sul FRIGIDO",
@@ -3659,6 +3673,13 @@
     "point_source": "manual",
     "longitude": 11.1665951,
     "latitude": 42.8678785
+  },
+  {
+    "title": "BATTIFOLLE del Casentino",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6670575,
+    "latitude": 43.7514007
   },
   {
     "title": "BATTIFOLLE di Val di Chiana",
@@ -7019,6 +7040,13 @@
     "point_source": "manual",
     "longitude": 11.5900441,
     "latitude": 43.438082
+  },
+  {
+    "title": "CENTOJA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9346174,
+    "latitude": 43.1928417
   },
   {
     "title": "CENTUMCELLI",
@@ -11893,6 +11921,13 @@
     "latitude": null
   },
   {
+    "title": "GELLO BISCARDO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.748769,
+    "latitude": 43.5630659
+  },
+  {
     "title": "GELLO DELL’ABATE, o sia GELLO del Casentino",
     "type": "place",
     "point_source": "manual",
@@ -12960,8 +12995,8 @@
     "title": "GRACCIANO",
     "type": "place",
     "point_source": "manual",
-    "longitude": 11.8287778,
-    "latitude": 43.1318886
+    "longitude": 11.83656692504883,
+    "latitude": 43.07579716330508
   },
   {
     "title": "GRADO (S. PIETRO IN)",
@@ -35698,6 +35733,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "VILLANUOVA detta anche VILLA TOLLE SOPRA  MONTEPULCIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.836223602294922,
+    "latitude": 43.07611063799551
   },
   {
     "title": "VILLE DI TERRANUOVA",
