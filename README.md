@@ -34,6 +34,12 @@ con la sostituzione di parole intere al posto delle abbreviazioni usate dal Repe
 
 I dati provenienti sono stati corretti **solo** dove non rispecchiano il testo originale.
 
+## Link
+
+Sono stati introdotti dei link HTML nei testi.
+Poi, dove la detinazione di un link è un paragrafo specifico di un articolo
+sono stati aggiunti elementi "div" con "id", come destinazione.
+
 # Contribuire
 
 Se vuoi contribuire, apri una pull request con la correzione o integrazione.
