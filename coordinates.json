@@ -6638,9 +6638,9 @@
   {
     "title": "CASTIGLION FIORENTINO",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.916666666666632,
-    "latitude": 43.33555555555556
+    "point_source": "manual",
+    "longitude": 11.922891139984133,
+    "latitude": 43.34136604940789
   },
   {
     "title": "CASTIGLION MONDIGLIO",
@@ -27638,9 +27638,9 @@
   {
     "title": "PRATO nella Valle del Bisenzio",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.099999999999966,
-    "latitude": 43.916666666666664
+    "point_source": "manual",
+    "longitude": 11.096792221069338,
+    "latitude": 43.88062204101191
   },
   {
     "title": "PREMILCORE, PREMILCUORE",
