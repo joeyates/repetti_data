@@ -1288,7 +1288,7 @@
     "latitude": 43.7736599
   },
   {
-    "title": "AREZZO, ARRETIUM",
+    "title": "AREZZO",
     "type": "place",
     "point_source": "manual",
     "longitude": 11.881853342056274,
@@ -10759,7 +10759,7 @@
     "latitude": null
   },
   {
-    "title": "FIRENZE, FIORENZA",
+    "title": "FIRENZE",
     "type": "place",
     "point_source": "text",
     "longitude": 11.249999999999968,
