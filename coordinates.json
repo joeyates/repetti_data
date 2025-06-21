@@ -6778,9 +6778,9 @@
   {
     "title": "CASTIGLION FIBOCCHI",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.749999999999968,
-    "latitude": 43.53333333333333
+    "point_source": "manual",
+    "longitude": 11.7631758,
+    "latitude": 43.5279646
   },
   {
     "title": "CASTIGLION FIORENTINO",
@@ -8356,6 +8356,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "COMPIOBBI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.3586663,
+    "latitude": 43.7825845
   },
   {
     "title": "COMPITO del Lucchese",
@@ -19138,6 +19145,13 @@
     "latitude": null
   },
   {
+    "title": "MILISCIANO, MILICIANO o MELISCIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.788018941879274,
+    "latitude": 43.523559679344054
+  },
+  {
     "title": "MINIATO (SAN)",
     "type": "reference",
     "point_source": "none",
@@ -28695,9 +28709,9 @@
   {
     "title": "REGGELLO",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.5333333333333,
-    "latitude": 43.68416666666666
+    "point_source": "manual",
+    "longitude": 11.537001729011537,
+    "latitude": 43.68310480733866
   },
   {
     "title": "REGGIOLO",
@@ -36286,6 +36300,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "VITERETA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6870843,
+    "latitude": 43.5235306
   },
   {
     "title": "VITO (S.) A BELLOSGUARDO",
