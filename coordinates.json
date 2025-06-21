@@ -4060,6 +4060,13 @@
     "latitude": null
   },
   {
+    "title": "BIAGIO (S.) AL BORRO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.716414690017702,
+    "latitude": 43.53930621130521
+  },
+  {
     "title": "BIAGIO (S.) AL POGGIO",
     "type": "reference",
     "point_source": "none",
@@ -4492,6 +4499,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "BORRO (S. BIAGIO AL)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.716409325599672,
+    "latitude": 43.53931787733571
   },
   {
     "title": "BOSCO (S. ANTONIO DEL)",
@@ -5096,6 +5110,13 @@
     "latitude": null
   },
   {
+    "title": "CAMPO AVANE o CAMPAVANE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.71047627925873,
+    "latitude": 43.50831288080435
+  },
+  {
     "title": "CAMPO DI MARTE",
     "type": "reference",
     "point_source": "none",
@@ -5404,6 +5425,13 @@
     "latitude": null
   },
   {
+    "title": "CAPRENNA, o CAPRENNE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.631259918212892,
+    "latitude": 43.52842626639682
+  },
+  {
     "title": "CAPRESE",
     "type": "place",
     "point_source": "text",
@@ -5488,11 +5516,25 @@
     "latitude": 44.083333333333336
   },
   {
+    "title": "CASA CESARE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.571800708770752,
+    "latitude": 43.611550274914585
+  },
+  {
     "title": "CASA NUOVA in Val d’Ombrone senese",
     "type": "reference",
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASA NUOVA nel Valdarno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6861046,
+    "latitude": 43.5078812
   },
   {
     "title": "CASA NUOVA, o CASA NUOVOLE in Val Tiberina",
@@ -5703,6 +5745,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASPRI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5798772,
+    "latitude": 43.6232762
   },
   {
     "title": "CASSIA (VIA)",
@@ -8314,6 +8363,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CONIE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.72747075557709,
+    "latitude": 43.519383171806
   },
   {
     "title": "CONIO sul Monte Albano",
@@ -11662,6 +11718,13 @@
     "latitude": null
   },
   {
+    "title": "FRONTIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.2869833,
+    "latitude": 43.1936877
+  },
+  {
     "title": "FRONZANO",
     "type": "place",
     "point_source": "manual",
@@ -12754,6 +12817,13 @@
     "latitude": null
   },
   {
+    "title": "GIUFFENNA, CIOFFENNA e CIUFFENNA, torrente",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.62982225418091,
+    "latitude": 43.60221393248617
+  },
+  {
     "title": "GIULIANO (S.) A QUERCIOLANO",
     "type": "reference",
     "point_source": "none",
@@ -13172,6 +13242,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "GRANAJOLO (PONTE DI)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 10.94716787338257,
+    "latitude": 43.64778653096198
   },
   {
     "title": "GRANAJOLO in Val d’Elsa",
@@ -16513,6 +16590,13 @@
     "latitude": 43.59246430622733
   },
   {
+    "title": "LORO (POGGIO DI)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.631238460540773,
+    "latitude": 43.61829409995583
+  },
+  {
     "title": "LOSQUE",
     "type": "reference",
     "point_source": "none",
@@ -16938,6 +17022,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "LUCIGNANO DI CASTIGLION FIBOCCHI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.767095029354097,
+    "latitude": 43.55610451163217
   },
   {
     "title": "LUCIGNANO di Val d’Arbia",
@@ -18774,6 +18865,13 @@
     "latitude": null
   },
   {
+    "title": "MENZANO nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5536864,
+    "latitude": 43.6587229
+  },
+  {
     "title": "MEOGNANO, o MEUGNANO",
     "type": "place",
     "point_source": "manual",
@@ -19607,6 +19705,13 @@
     "latitude": 43.670044581125
   },
   {
+    "title": "MONTALTO nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.596133708953857,
+    "latitude": 43.59138419783771
+  },
+  {
     "title": "MONTALTUZZO",
     "type": "place",
     "point_source": "manual",
@@ -20039,6 +20144,13 @@
     "point_source": "manual",
     "longitude": 11.2611728,
     "latitude": 44.0482461
+  },
+  {
+    "title": "MONTE CARELLI o MONTECARELLI nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.528692245483398,
+    "latitude": 43.630254334125354
   },
   {
     "title": "MONTE CARLO",
@@ -24129,6 +24241,13 @@
     "latitude": 43.0191332
   },
   {
+    "title": "PERSIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5727675,
+    "latitude": 43.5993302
+  },
+  {
     "title": "PERTICAJA",
     "type": "place",
     "point_source": "manual",
@@ -26628,6 +26747,13 @@
     "latitude": null
   },
   {
+    "title": "POGGIO DI LORO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6319353,
+    "latitude": 43.6182798
+  },
+  {
     "title": "POGGIO GHERARDI",
     "type": "reference",
     "point_source": "none",
@@ -26696,6 +26822,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "POGGITAZZI DI MONTALTO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.584138870239258,
+    "latitude": 43.59167792703859
   },
   {
     "title": "POGNA, e POGNI",
@@ -27074,6 +27207,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "PONTE LUNGO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 10.889114,
+    "latitude": 43.923546
   },
   {
     "title": "PONTE NANO, o PONTENANO",
@@ -28194,6 +28334,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "QUARTO (S. MUSTIOLA A)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.851231002178423,
+    "latitude": 43.4182352
   },
   {
     "title": "QUERCE GROSSA, o QUERCIA GROSSA",
@@ -33490,9 +33637,9 @@
   {
     "title": "TERRANUOVA, o TERRA NUOVA",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.5683333333333,
-    "latitude": 43.55138888888889
+    "point_source": "manual",
+    "longitude": 11.585780382156374,
+    "latitude": 43.551231604744
   },
   {
     "title": "TERRAROSSA DEL MONT’ARGENTARO",
@@ -33964,6 +34111,13 @@
     "latitude": null
   },
   {
+    "title": "TRAJANA, o TROJANA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6711521,
+    "latitude": 43.5524194
+  },
+  {
     "title": "TRAMONTI  in Val di Cecina",
     "type": "reference",
     "point_source": "none",
@@ -34221,6 +34375,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "TROJANA, o TRAJANA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6711521,
+    "latitude": 43.5524194
   },
   {
     "title": "TROVE torrente",
@@ -34799,6 +34960,13 @@
   {
     "title": "VALLE DELL’IBOLA",
     "type": "reference",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "VALLE DELL’INFERNO",
+    "type": "group",
     "point_source": "none",
     "longitude": null,
     "latitude": null
@@ -35950,6 +36118,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "VILLAMAGNA del Val d’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.451272964477539,
+    "latitude": 43.5552787809011
   },
   {
     "title": "VILLAMAGNA in Val d’Era",
