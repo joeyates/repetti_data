@@ -490,6 +490,13 @@
     "latitude": null
   },
   {
+    "title": "ACONA (POGGIO DI) nel Casentino",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.875877380371094,
+    "latitude": 43.6346627111162
+  },
+  {
     "title": "ACONE (PIVIERE DI)",
     "type": "place",
     "point_source": "manual",
@@ -2504,6 +2511,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "BADIA DI S. VERIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.027808427810669,
+    "latitude": 43.48335331845901
   },
   {
     "title": "BADIA DI SELVAMONDA",
@@ -5682,6 +5696,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASCIANO (S.) DI CASTELLONCHIO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.014944553375244,
+    "latitude": 43.38251753765038
   },
   {
     "title": "CASCIANO (S.) IN PADULE",
@@ -9709,6 +9730,13 @@
     "latitude": 44.1813359
   },
   {
+    "title": "DONNINO (S.) SUL CERFONE, o a MAJANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.977071762084963,
+    "latitude": 43.42480526415531
+  },
+  {
     "title": "DONNINO (S.) a CERBAJA",
     "type": "reference",
     "point_source": "none",
@@ -12556,6 +12584,13 @@
     "point_source": "manual",
     "longitude": 10.7930037,
     "latitude": 43.5396715
+  },
+  {
+    "title": "GIAMPERETA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9538106,
+    "latitude": 43.7287317
   },
   {
     "title": "GIANUTRI (ISOLA DI)",
@@ -17745,6 +17780,13 @@
     "latitude": null
   },
   {
+    "title": "MALFIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7426612,
+    "latitude": 43.4327564
+  },
+  {
     "title": "MALGRATE, o MALGRATO",
     "type": "place",
     "point_source": "manual",
@@ -17799,6 +17841,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "MAMMA (S.) A S. MAMANTE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.854596734046936,
+    "latitude": 43.62967734632737
   },
   {
     "title": "MAMMEO (S.), o S. MOMMÈ",
@@ -17911,6 +17960,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "MARCENA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.861115,
+    "latitude": 43.5497877
   },
   {
     "title": "MARCIALLA",
@@ -18429,6 +18485,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "MARTINO (S.) IN POGGIO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7305402,
+    "latitude": 43.4500059
   },
   {
     "title": "MARTINO (S.) IN VALLE",
@@ -19159,6 +19222,13 @@
     "latitude": 43.9873764
   },
   {
+    "title": "MIGLIARI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6791435,
+    "latitude": 43.4354009
+  },
+  {
     "title": "MIGLIARINO",
     "type": "place",
     "point_source": "manual",
@@ -19633,6 +19703,13 @@
     "point_source": "manual",
     "longitude": 11.624135971069336,
     "latitude": 42.43612692354902
+  },
+  {
+    "title": "MONTAGUTO, o MONTAGUTELLO DI TALLA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.804723739624025,
+    "latitude": 43.6035813023564
   },
   {
     "title": "MONTAGUTO, o MONTAGUTOLO DEL BOSCO,  ossia di Val di Strove",
@@ -23023,6 +23100,13 @@
     "latitude": 44.089434505800256
   },
   {
+    "title": "ORZALE DI TUORI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.970194578170778,
+    "latitude": 43.33977580977189
+  },
+  {
     "title": "ORZIGNANO DE’BAGNI DI S. GIULIANO",
     "type": "reference",
     "point_source": "none",
@@ -23863,6 +23947,13 @@
     "latitude": null
   },
   {
+    "title": "PANTANETA, o PANTANETO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.12345600128174,
+    "latitude": 43.479225799433955
+  },
+  {
     "title": "PANZALLA",
     "type": "place",
     "point_source": "manual",
@@ -24085,6 +24176,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "PATERNA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.268166542053223,
+    "latitude": 43.41954692104956
   },
   {
     "title": "PATERNIANO (S.) A VIAJO",
@@ -27993,6 +28091,13 @@
     "latitude": 43.70864825821471
   },
   {
+    "title": "POZZO nella Valle dell’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.584970355033875,
+    "latitude": 43.55055666014122
+  },
+  {
     "title": "POZZUOLO (SCALO DI)",
     "type": "reference",
     "point_source": "none",
@@ -28455,6 +28560,13 @@
     "latitude": 43.976594
   },
   {
+    "title": "QUERCETO DI BAGNORO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.908584237098696,
+    "latitude": 43.4193965201445
+  },
+  {
     "title": "QUERCETO DI MONTE CATINI",
     "type": "place",
     "point_source": "manual",
@@ -28607,6 +28719,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "RANCO nella Valle della Marecchia",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.193794250488281,
+    "latitude": 43.72841215852929
   },
   {
     "title": "RANCO sul Cerfone",
@@ -29265,6 +29384,13 @@
     "point_source": "manual",
     "longitude": 10.3369272,
     "latitude": 44.1456428
+  },
+  {
+    "title": "ROCCA CIGNATA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0306953,
+    "latitude": 43.6149751
   },
   {
     "title": "ROCCA DELLA VERRUCA",
