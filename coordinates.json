@@ -6510,6 +6510,13 @@
     "latitude": 43.750103223763475
   },
   {
+    "title": "CASTELLUCCIO DI CAPOLONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8351086,
+    "latitude": 43.5252301
+  },
+  {
     "title": "CASTELL’ALFERO",
     "type": "reference",
     "point_source": "none",
@@ -7749,6 +7756,13 @@
     "latitude": null
   },
   {
+    "title": "CICOGNA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.639421,
+    "latitude": 43.5474344
+  },
+  {
     "title": "CIGNANO",
     "type": "place",
     "point_source": "manual",
@@ -7782,6 +7796,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CINCELLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7984551,
+    "latitude": 43.5114652
   },
   {
     "title": "CINGIATA (ROCCA)",
@@ -10423,6 +10444,13 @@
     "latitude": 43.7402132
   },
   {
+    "title": "FARNETO",
+    "type": "group",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "FARNOCCHIA",
     "type": "place",
     "point_source": "text",
@@ -11230,6 +11258,13 @@
   {
     "title": "FORO della VERRUCOLA",
     "type": "reference",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "FORO, o MERCATALE",
+    "type": "group",
     "point_source": "none",
     "longitude": null,
     "latitude": null
@@ -18914,6 +18949,13 @@
     "latitude": null
   },
   {
+    "title": "MERCATALE",
+    "type": "group",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "MERCATALE DI DICOMANO",
     "type": "reference",
     "point_source": "none",
@@ -18947,6 +18989,13 @@
     "point_source": "manual",
     "longitude": 12.139463424682619,
     "latitude": 43.255217843636146
+  },
+  {
+    "title": "MERCATALE DI VAL D’AMBRA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.564607024192812,
+    "latitude": 43.47911057988085
   },
   {
     "title": "MERCATALE DI VERNIO",
@@ -28912,9 +28961,9 @@
   {
     "title": "RIGNANO, e PONTE A RIGNANO",
     "type": "place",
-    "point_source": "text",
-    "longitude": 11.449999999999967,
-    "latitude": 43.718333333333334
+    "point_source": "manual",
+    "longitude": 11.453096866607666,
+    "latitude": 43.722097848272455
   },
   {
     "title": "RIGO MAGNO, o RIGOMAGNO",
