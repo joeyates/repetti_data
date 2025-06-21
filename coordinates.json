@@ -7,6 +7,13 @@
     "latitude": null
   },
   {
+    "title": "A FINE",
+    "type": "group",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "ABANO (MONTE)",
     "type": "reference",
     "point_source": "none",
@@ -1566,6 +1573,13 @@
     "point_source": "manual",
     "longitude": 10.600733757019043,
     "latitude": 43.6839497326929
+  },
+  {
+    "title": "AVANE (S. CIPRIANO IN) detto anche IN PIAN FRANZESE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.492675542831423,
+    "latitude": 43.57191250338554
   },
   {
     "title": "AVANE (S. MARCELLINO IN)",
@@ -4660,6 +4674,13 @@
     "point_source": "text",
     "longitude": 11.468333333333298,
     "latitude": 43.13444444444444
+  },
+  {
+    "title": "BURIANO (PONTE DI)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.79958265,
+    "latitude": 43.50462415
   },
   {
     "title": "BURIANO nel Val d’Arno Aretino",
@@ -21140,6 +21161,13 @@
     "latitude": null
   },
   {
+    "title": "MONTE SCALARI, MONTESCALARI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.371455788612367,
+    "latitude": 43.63140906975728
+  },
+  {
     "title": "MONTE SCUDAJO, o MONTESCUDAJO",
     "type": "place",
     "point_source": "text",
@@ -21516,6 +21544,13 @@
     "point_source": "manual",
     "longitude": 11.478191614151003,
     "latitude": 42.88816533414773
+  },
+  {
+    "title": "MONTICELLO nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6458579,
+    "latitude": 43.5191175
   },
   {
     "title": "MONTICELLO, o MONTICELLI in Val di Chiana",
@@ -34375,6 +34410,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "TROGHI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.3960704,
+    "latitude": 43.7147824
   },
   {
     "title": "TROJANA, o TRAJANA",
