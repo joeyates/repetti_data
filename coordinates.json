@@ -3696,6 +3696,13 @@
     "latitude": null
   },
   {
+    "title": "BASILICA (S. SALVATORE A)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.751712560653688,
+    "latitude": 43.83815169972222
+  },
+  {
     "title": "BASILIDE (S.) AD ARZENZIO",
     "type": "reference",
     "point_source": "none",
@@ -7616,6 +7623,13 @@
     "latitude": null
   },
   {
+    "title": "CHIASSA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.92618489265442,
+    "latitude": 43.562049126537396
+  },
+  {
     "title": "CHIASSA (S. MARIA DELLA)",
     "type": "place",
     "point_source": "manual",
@@ -10794,6 +10808,13 @@
     "latitude": null
   },
   {
+    "title": "FILETTO nel Val d’Arno casentinese",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.721925,
+    "latitude": 43.7378804
+  },
+  {
     "title": "FILETTOLE, talvolta FILETTO",
     "type": "place",
     "point_source": "manual",
@@ -11907,6 +11928,13 @@
     "latitude": null
   },
   {
+    "title": "GAENNA o GAJENNA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7491791,
+    "latitude": 43.4438645
+  },
+  {
     "title": "GAGGIO (S.)",
     "type": "place",
     "point_source": "manual",
@@ -12108,6 +12136,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "GARLIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.686148,
+    "latitude": 43.7123979
   },
   {
     "title": "GASTRA (S. BARTOLOMMEO A)",
@@ -15482,6 +15517,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "LEO (SAN) NEL PIAN D'ANGHIARI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0904898,
+    "latitude": 43.5335544
   },
   {
     "title": "LEOLI (COLLE DI)",
@@ -24643,8 +24685,8 @@
     "title": "PETRINO (PONTE) o PETRENO",
     "type": "place",
     "point_source": "manual",
-    "longitude": 11.119576245546341,
-    "latitude": 43.87389842600323
+    "longitude": 11.117579340934755,
+    "latitude": 43.87301054893011
   },
   {
     "title": "PETRIOLO (PIEVE DI S. PAOLO A) o DI S. POLO",
@@ -26943,6 +26985,13 @@
     "latitude": null
   },
   {
+    "title": "POGGIO DI BATTIFOLLE, detto anche il POGGIO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6670575,
+    "latitude": 43.7514007
+  },
+  {
     "title": "POGGIO DI LORO",
     "type": "place",
     "point_source": "manual",
@@ -26976,6 +27025,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "POGGIO ORSONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.812652349472048,
+    "latitude": 43.64447925382723
   },
   {
     "title": "POGGIO PINCIS o PINCI",
@@ -32004,6 +32060,13 @@
     "latitude": null
   },
   {
+    "title": "SEANO DI CORTONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.12021052837372,
+    "latitude": 43.30742825950315
+  },
+  {
     "title": "SEANO DI SOVIGLIANA",
     "type": "reference",
     "point_source": "none",
@@ -32716,6 +32779,13 @@
     "point_source": "manual",
     "longitude": 11.6463032,
     "latitude": 42.6571179
+  },
+  {
+    "title": "SOCANA (PIEVE A)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8261896,
+    "latitude": 43.6464685
   },
   {
     "title": "SOCCIANO, o SECCIANO",
@@ -34209,6 +34279,13 @@
     "latitude": 43.08598740432702
   },
   {
+    "title": "TORREONE A GUGLIELMESCA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.999057829380037,
+    "latitude": 43.28195896050585
+  },
+  {
     "title": "TORRI (PIEVE DI) in Val di Pesa",
     "type": "reference",
     "point_source": "none",
@@ -34844,6 +34921,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "VAL D’AFRA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.168066501617433,
+    "latitude": 43.586583308799376
   },
   {
     "title": "VAL D’AGNETO   Di Bagno",
