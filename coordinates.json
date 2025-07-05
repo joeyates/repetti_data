@@ -126,6 +126,13 @@
     "latitude": 43.00941337602
   },
   {
+    "title": "ABAZIA DELLA BERARDENGA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.56040132045746,
+    "latitude": 43.35063355566757
+  },
+  {
     "title": "ABAZIA DELLA VERRUCA",
     "type": "reference",
     "point_source": "none",
@@ -1596,6 +1603,13 @@
     "latitude": 43.1525692
   },
   {
+    "title": "ASULARI",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "ATRIANA di Sovana in Maremma",
     "type": "reference",
     "point_source": "none",
@@ -1786,6 +1800,13 @@
   },
   {
     "title": "AZZANO, AZIANO",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "AZZO (CASTEL D’)",
     "type": "place",
     "point_source": "later",
     "longitude": null,
@@ -2133,6 +2154,20 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "BADIA DI CAPOLONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8288735,
+    "latitude": 43.5264273
+  },
+  {
+    "title": "BADIA DI CARISIO o CARIGI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 10.727854371070862,
+    "latitude": 43.57961519970577
   },
   {
     "title": "BADIA DI CASTELFRANCO",
@@ -2982,6 +3017,13 @@
     "latitude": 42.65921170710379
   },
   {
+    "title": "BAGNO (S. MARIA AL)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.827010214328768,
+    "latitude": 43.61072219728181
+  },
+  {
     "title": "BAGNO A ACQUA",
     "type": "reference",
     "point_source": "none",
@@ -3136,6 +3178,13 @@
     "latitude": null
   },
   {
+    "title": "BAGNO D’ACQUA BORRA",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "BAGNO D’EQUI",
     "type": "reference",
     "point_source": "none",
@@ -3253,6 +3302,20 @@
     "point_source": "manual",
     "longitude": 11.0511489,
     "latitude": 43.4526021
+  },
+  {
+    "title": "BARBIANO o BALBIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6658501,
+    "latitude": 43.7365394
+  },
+  {
+    "title": "BARBISTIO o BARBISCHIO DEL CHIANTI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.454960737340581,
+    "latitude": 43.46285825
   },
   {
     "title": "BARCO REALE DI ARTIMINO, e MONTI del BARCO",
@@ -3983,6 +4046,13 @@
     "latitude": null
   },
   {
+    "title": "BENICHI (MONTE)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5443441,
+    "latitude": 43.405625
+  },
+  {
     "title": "BERANRDO (S.) A CASTIGLIONCELLO",
     "type": "reference",
     "point_source": "none",
@@ -4002,6 +4072,13 @@
     "point_source": "text",
     "longitude": 11.3333333333333,
     "latitude": 43.35
+  },
+  {
+    "title": "BERARDENGA (LUCIGNANO)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.4283407,
+    "latitude": 43.3802861
   },
   {
     "title": "BERARDENGA (MONTELUCO DELLA)",
@@ -4387,6 +4464,13 @@
     "point_source": "manual",
     "longitude": 11.934261023998262,
     "latitude": 43.75000983485707
+  },
+  {
+    "title": "BIGNANO presso Fiesole",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
   },
   {
     "title": "BISCARDO (GELLO)",
@@ -4872,6 +4956,13 @@
     "latitude": null
   },
   {
+    "title": "BRENDA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7416379,
+    "latitude": 43.7719434
+  },
+  {
     "title": "BRIGIDA (S.) A OPACO",
     "type": "reference",
     "point_source": "none",
@@ -5031,6 +5122,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CAFAGGIO in Val di Sieve",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6336225,
+    "latitude": 43.9110852
   },
   {
     "title": "CAFAGGIO o CAFAGGIOLO nella Valle dell’Arno superiore",
@@ -6153,6 +6251,13 @@
     "latitude": 43.38251753765038
   },
   {
+    "title": "CASCIANO (S.) DI MODIGLIANA",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "CASCIANO (S.) IN PADULE",
     "type": "reference",
     "point_source": "none",
@@ -6169,6 +6274,13 @@
   {
     "title": "CASCIANO (S.) in Val di Greve",
     "type": "reference",
+    "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "CASCIANO (S.), o CASSIANO nella valle del Serchio",
+    "type": "group",
     "point_source": "none",
     "longitude": null,
     "latitude": null
@@ -6342,6 +6454,13 @@
     "latitude": 43.8156609
   },
   {
+    "title": "CASTAGNETO DELL'INCISA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.3973069190979,
+    "latitude": 43.66160680473875
+  },
+  {
     "title": "CASTAGNETO DELLA GHERARDESCA",
     "type": "place",
     "point_source": "manual",
@@ -6508,6 +6627,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASTEL GUINELDO, o CASTEL GUINELLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.473363637924196,
+    "latitude": 43.61587846517164
   },
   {
     "title": "CASTEL GUINIZINGO, o WINIZINGHI",
@@ -7017,6 +7143,13 @@
     "title": "CASTELL’ALFERO",
     "type": "reference",
     "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "CASTELL’AZZI nel Val d’Arno Superiore",
+    "type": "place",
+    "point_source": "later",
     "longitude": null,
     "latitude": null
   },
@@ -7791,6 +7924,13 @@
     "latitude": null
   },
   {
+    "title": "CERBONE (S.)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.47622287273407,
+    "latitude": 43.61293296826962
+  },
+  {
     "title": "CERBONE (S.) A CASTAGNETO",
     "type": "reference",
     "point_source": "none",
@@ -8202,6 +8342,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CHIESIMONE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.493576765060425,
+    "latitude": 43.67011752945377
   },
   {
     "title": "CHIGI (MEDANE)",
@@ -8657,6 +8804,13 @@
     "point_source": "manual",
     "longitude": 10.9126084,
     "latitude": 43.6195036
+  },
+  {
+    "title": "COJANO nella Valle di Bisenzio",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.104999780654907,
+    "latitude": 43.901142393217626
   },
   {
     "title": "COL DI PIETRA",
@@ -10003,6 +10157,20 @@
     "latitude": null
   },
   {
+    "title": "DOLCIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9323523,
+    "latitude": 43.0381874
+  },
+  {
+    "title": "DOMENICO (BORGO S.) a Cortona",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.989163160324097,
+    "latitude": 43.274380769513016
+  },
+  {
     "title": "DOMENICO (MONTE)",
     "type": "reference",
     "point_source": "none",
@@ -10864,6 +11032,13 @@
     "latitude": null
   },
   {
+    "title": "EVOLA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 10.924572944641115,
+    "latitude": 43.50126295390931
+  },
+  {
     "title": "FABBIANA",
     "type": "reference",
     "point_source": "none",
@@ -10911,6 +11086,13 @@
     "point_source": "manual",
     "longitude": 11.2151268,
     "latitude": 43.5898362
+  },
+  {
+    "title": "FABBRICA in Val di Sieve",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.453779488801958,
+    "latitude": 43.918979069870424
   },
   {
     "title": "FABBRICA in Val d’Era",
@@ -11487,6 +11669,13 @@
     "latitude": null
   },
   {
+    "title": "FICAJOLO",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "FICALLE (MONTE)",
     "type": "reference",
     "point_source": "none",
@@ -11562,6 +11751,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "FIGLINE in Val di Bisenzio, o FIGLINE DI PRATO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.091288328170778,
+    "latitude": 43.92300030803138
   },
   {
     "title": "FILATTIERA",
@@ -16212,6 +16408,13 @@
     "latitude": 43.83368707628975
   },
   {
+    "title": "LARGININO, o LARGENINO, talvolta l’ARGENNINA",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "LARGNANO nel Val d’Arno casentinese",
     "type": "reference",
     "point_source": "none",
@@ -18193,6 +18396,13 @@
     "latitude": 43.55610451163217
   },
   {
+    "title": "LUCIGNANO D’ASSO, o LUCIGNANELLO DI  PIENZA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.5926452,
+    "latitude": 43.1242141
+  },
+  {
     "title": "LUCIGNANO di Val d’Arbia",
     "type": "place",
     "point_source": "manual",
@@ -18977,6 +19187,13 @@
     "latitude": 44.04934954474218
   },
   {
+    "title": "MANLIANA, MARILIANA, o MALLIANA",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "MANTIGNANO",
     "type": "place",
     "point_source": "manual",
@@ -19656,6 +19873,13 @@
     "latitude": null
   },
   {
+    "title": "MASSA DELL’INCISA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.45127832889557,
+    "latitude": 43.644174913097274
+  },
+  {
     "title": "MASSA DI BAGNO",
     "type": "reference",
     "point_source": "none",
@@ -20011,6 +20235,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "MELAZZANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.326129138469698,
+    "latitude": 43.57985924482891
   },
   {
     "title": "MELETO D’AVANE o DI PIAN FRANZESE",
@@ -22743,6 +22974,13 @@
     "latitude": 43.2336437
   },
   {
+    "title": "MONTECCHIO nel Val d’Arno casentinese",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.836765408515932,
+    "latitude": 43.67786041778442
+  },
+  {
     "title": "MONTECCHIO nel Val d’Arno pisano",
     "type": "place",
     "point_source": "manual",
@@ -23042,6 +23280,13 @@
     "point_source": "manual",
     "longitude": 11.7673187,
     "latitude": 42.7411722
+  },
+  {
+    "title": "MONTOTO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.733639836311342,
+    "latitude": 43.49611554795797
   },
   {
     "title": "MONTOZZI",
@@ -23903,6 +24148,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "NOTTOLA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8282515,
+    "latitude": 43.1244718
   },
   {
     "title": "NOTTUNO (S. GIORGIO DI)",
@@ -25095,6 +25347,13 @@
     "latitude": null
   },
   {
+    "title": "PALAZZONE in Val di Chiana",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9348199,
+    "latitude": 42.8860113
+  },
+  {
     "title": "PALAZZUOLO DI ROMAGNA",
     "type": "place",
     "point_source": "text",
@@ -26243,6 +26502,13 @@
     "latitude": 42.84836878848489
   },
   {
+    "title": "PIAN D'ANGHIARI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.065026760101318,
+    "latitude": 43.53990661999484
+  },
+  {
     "title": "PIAN D'AREZZO",
     "type": "place",
     "point_source": "manual",
@@ -26537,6 +26803,13 @@
     "latitude": 42.9077125
   },
   {
+    "title": "PIAZZOLE",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "PICHENA o PICCHENA",
     "type": "place",
     "point_source": "manual",
@@ -26738,6 +27011,13 @@
     "point_source": "manual",
     "longitude": 11.295613646507265,
     "latitude": 43.9116287017504
+  },
+  {
+    "title": "PIETRA NERA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.013276219367983,
+    "latitude": 43.69454093672617
   },
   {
     "title": "PIETRA PIANA",
@@ -27979,6 +28259,13 @@
     "latitude": null
   },
   {
+    "title": "PILLI, o PIGLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.85580372810364,
+    "latitude": 43.40291483374515
+  },
+  {
     "title": "PILLO",
     "type": "place",
     "point_source": "manual",
@@ -28626,6 +28913,13 @@
     "title": "POMPIANO, o POMPEJANO (S. GIORGIO A)",
     "type": "reference",
     "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "PONDO (CASTEL)",
+    "type": "place",
+    "point_source": "later",
     "longitude": null,
     "latitude": null
   },
@@ -30625,6 +30919,13 @@
     "latitude": 43.7620731
   },
   {
+    "title": "RIETINE, talvolta RETINA, DEL CHIANTI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.4385552,
+    "latitude": 43.4425064
+  },
+  {
     "title": "RIFREDO DI VERGHERETO",
     "type": "reference",
     "point_source": "none",
@@ -30677,6 +30978,13 @@
     "title": "RIMAGGIO DEL PIAN DI RIPOLI",
     "type": "reference",
     "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "RIMAGGIO nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "later",
     "longitude": null,
     "latitude": null
   },
@@ -31799,6 +32107,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "SAGGINALE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.4185481,
+    "latitude": 43.9328825
   },
   {
     "title": "SALA DEL DUCA ALLONE",
@@ -33355,6 +33670,13 @@
     "latitude": 43.6839037
   },
   {
+    "title": "SARTEANELLO, o SARTIANELLO",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "SARTEANO, o SARTIANO",
     "type": "place",
     "point_source": "manual",
@@ -33551,6 +33873,13 @@
     "latitude": null
   },
   {
+    "title": "SCERGNANO, o SCORGNANO (PIEVE DI)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.435236036777498,
+    "latitude": 43.65510653355827
+  },
+  {
     "title": "SCERPENNA, o SCERPENA",
     "type": "reference",
     "point_source": "none",
@@ -33570,6 +33899,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "SCHIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.106287240982057,
+    "latitude": 43.96533296427154
   },
   {
     "title": "SCIANELLO, o ASCIANELLO in Val di Chiana",
@@ -33677,6 +34013,13 @@
     "latitude": 43.499464599999996
   },
   {
+    "title": "SCROFIANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7152049,
+    "latitude": 43.230445
+  },
+  {
     "title": "SCUOLA (PIEVE A)",
     "type": "reference",
     "point_source": "none",
@@ -33750,6 +34093,13 @@
     "title": "SEGALARI DI SOVIGLIANA",
     "type": "reference",
     "point_source": "none",
+    "longitude": null,
+    "latitude": null
+  },
+  {
+    "title": "SEGALARI nel Val d’Arno superiore",
+    "type": "place",
+    "point_source": "later",
     "longitude": null,
     "latitude": null
   },
@@ -35133,6 +35483,13 @@
     "latitude": 42.924251753870685
   },
   {
+    "title": "STIELLA",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "STIGLIANO, o STILLIANO in Val di Merse",
     "type": "place",
     "point_source": "manual",
@@ -35707,6 +36064,13 @@
     "latitude": 44.23416666666667
   },
   {
+    "title": "TERRENO (S. PIETRO AL)",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.417015790939333,
+    "latitude": 43.64253827870411
+  },
+  {
     "title": "TERRICCIUOLA",
     "type": "place",
     "point_source": "text",
@@ -36167,6 +36531,13 @@
     "point_source": "text",
     "longitude": 11.75111111111108,
     "latitude": 43.16777777777777
+  },
+  {
+    "title": "TORRITA, o TURRITA DELLA CHIUSA  DE’MONACI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.845589876174929,
+    "latitude": 43.43791952010617
   },
   {
     "title": "TORRITE (VILLAGGIO DI)",
@@ -38603,6 +38974,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "VIVAJO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.447845101356508,
+    "latitude": 43.65559439849756
   },
   {
     "title": "VIVAJO (VILLA DEL) a Majano",
