@@ -3227,6 +3227,13 @@
     "latitude": null
   },
   {
+    "title": "BALDIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.082334379520741,
+    "latitude": 43.62404421927341
+  },
+  {
     "title": "BALZE (S. MARIA ALLE)",
     "type": "place",
     "point_source": "text",
@@ -6118,6 +6125,13 @@
     "latitude": null
   },
   {
+    "title": "CASA PRATO",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "CASA VECCHIA del piano di Pistoja",
     "type": "reference",
     "point_source": "none",
@@ -6130,6 +6144,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASALE DI CORTONA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.0723273,
+    "latitude": 43.3018089
   },
   {
     "title": "CASALE del VESCOVO",
@@ -6669,6 +6690,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CASTEL PUGLIESE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.779430657669955,
+    "latitude": 43.4486862
   },
   {
     "title": "CASTEL PULCI",
@@ -8316,6 +8344,13 @@
     "latitude": null
   },
   {
+    "title": "CHIAVARETTO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.928046345710754,
+    "latitude": 43.54857299460313
+  },
+  {
     "title": "CHIAVELLO (MONTE)",
     "type": "reference",
     "point_source": "none",
@@ -8615,6 +8650,13 @@
     "point_source": "none",
     "longitude": null,
     "latitude": null
+  },
+  {
+    "title": "CIRIGNONE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9978991,
+    "latitude": 43.7468547
   },
   {
     "title": "CIRLIANO",
@@ -11760,6 +11802,13 @@
     "latitude": 43.92300030803138
   },
   {
+    "title": "FIGLINE nel Val d’Arno aretino",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.8422105,
+    "latitude": 43.5345029
+  },
+  {
     "title": "FILATTIERA",
     "type": "place",
     "point_source": "text",
@@ -13277,6 +13326,13 @@
     "point_source": "manual",
     "longitude": 11.748769,
     "latitude": 43.5630659
+  },
+  {
+    "title": "GELLO DEL VALDARNO ARETINO detto Gello e  Pagognano",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.933233737945558,
+    "latitude": 43.506050410475765
   },
   {
     "title": "GELLO DELL’ABATE, o sia GELLO del Casentino",
@@ -17234,6 +17290,13 @@
     "latitude": 43.801199
   },
   {
+    "title": "LONTRINA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.819883584976198,
+    "latitude": 43.6927815547577
+  },
+  {
     "title": "LOPPIA",
     "type": "place",
     "point_source": "manual",
@@ -19334,6 +19397,13 @@
     "latitude": 43.7172988685446
   },
   {
+    "title": "MARCIGNANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.1472398,
+    "latitude": 43.4168396
+  },
+  {
     "title": "MARCO (S.) A GRAGLIANA",
     "type": "reference",
     "point_source": "none",
@@ -20270,6 +20340,13 @@
     "point_source": "manual",
     "longitude": 10.374443,
     "latitude": 43.5737538
+  },
+  {
+    "title": "MEMMENANO",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.7913431,
+    "latitude": 43.7127266
   },
   {
     "title": "MENSANO, o MENZANO fra l’Elsa e la Cecina",
@@ -25298,6 +25375,13 @@
     "latitude": 43.774552153771225
   },
   {
+    "title": "PALAZZI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 12.2096131,
+    "latitude": 43.7098005
+  },
+  {
     "title": "PALAZZO (FORTEZZA DI)",
     "type": "reference",
     "point_source": "none",
@@ -25947,6 +26031,13 @@
     "point_source": "manual",
     "longitude": 11.197557449340822,
     "latitude": 43.682925579232865
+  },
+  {
+    "title": "PERELLI",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6052556,
+    "latitude": 43.4822304
   },
   {
     "title": "PERETA",
@@ -31253,6 +31344,13 @@
     "point_source": "manual",
     "longitude": 11.522862,
     "latitude": 43.7670083
+  },
+  {
+    "title": "RISTONCHIA",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.9695908,
+    "latitude": 43.3255522
   },
   {
     "title": "RIVA D’ONDA, o MONTE DELL’ONDA",
@@ -37744,6 +37842,13 @@
     "latitude": 43.982328
   },
   {
+    "title": "VALLESE",
+    "type": "place",
+    "point_source": "later",
+    "longitude": null,
+    "latitude": null
+  },
+  {
     "title": "VALLESI DI RIGOMAGNO",
     "type": "place",
     "point_source": "manual",
@@ -37791,6 +37896,13 @@
     "point_source": "manual",
     "longitude": 11.557509899139406,
     "latitude": 43.73232880541491
+  },
+  {
+    "title": "VALLUCCIOLE",
+    "type": "place",
+    "point_source": "manual",
+    "longitude": 11.6702899,
+    "latitude": 43.8362844
   },
   {
     "title": "VALTRIANO DI CENAJA",
